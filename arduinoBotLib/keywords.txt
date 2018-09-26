@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For ArduinoBot
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ArduinoBot	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setLed	KEYWORD2
+buzzer	KEYWORD2
+setMotorSpeeds	KEYWORD2
+setMotorStop	KEYWORD2
+motorsReadLeftSpeed	KEYWORD2
+motorsReadRightSpeed	KEYWORD2
+sensorRead	KEYWORD2
+sensorPrintToSerial	KEYWORD2
+sharpReadDistance_mm	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+NO_LINE	LITERAL1
+CROSS_T	LITERAL1
+CROSS_RIGHT	LITERAL1
+CROSS_LEFT	LITERAL1
+ALL_BLACK	LITERAL1
+
+
+

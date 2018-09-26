@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For ChipLib3
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ChipLib3	KEYWORD2
+DigitalOut	KEYWORD2
+DigitalIn	KEYWORD2
+AnalogIn	KEYWORD2
+AnalogOut	KEYWORD2
+ButtonIn	KEYWORD2
+SoftTimer	KEYWORD2
+Note	KEYWORD2
+Buzzer	KEYWORD2
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+read	KEYWORD3
+write	KEYWORD3
+waitForPressAndRelease	KEYWORD3
+waitForPress	KEYWORD3
+waitForRelease	KEYWORD3
+isPressed	KEYWORD3
+update	KEYWORD3
+attach	KEYWORD3
+start	KEYWORD3
+stop	KEYWORD3
+sound	KEYWORD3
+music	KEYWORD3
+isMusicFinish	KEYWORD3
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PULL_UP_ENABLE		LITERAL1
+PULL_UP_DISABLE		LITERAL1
+
+
+

@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map For MBlueBotLib
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MBlueMotor	KEYWORD1
+MBlueMotors	KEYWORD1
+MBlueButton	KEYWORD1
+MBlueLineSensor	KEYWORD1
+MBlueUltrasonic KEYWORD1
+MBlueRGBLed	KEYWORD1
+MBlueServo	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+drive	KEYWORD2
+stop	KEYWORD2
+getSpeed	KEYWORD2
+setSpeeds	KEYWORD2
+getLeftSpeed	KEYWORD2
+getRightSpeed	KEYWORD2
+waitForPressed	KEYWORD2
+waitForReleased	KEYWORD2
+waitForPressAndReleased	KEYWORD2
+isPressed	KEYWORD2
+readSensor1	KEYWORD2
+readSensor2	KEYWORD2
+getDistanceCm	KEYWORD2
+reset	KEYWORD2
+setColor	KEYWORD2
+clear	KEYWORD2
+setAngle	KEYWORD2
+getAngle	KEYWORD2
+
+
+

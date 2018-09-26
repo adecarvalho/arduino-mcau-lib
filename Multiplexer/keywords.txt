@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Multiplexer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Multiplexer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+selectPin	KEYWORD2
+getAnalogValue	KEYWORD2
+getAnalogValueAt	KEYWORD2
+getDigitalValue	KEYWORD2
+getDigitalValueAt	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
+

@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For diyBotLib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DiyBot	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setLed	KEYWORD2
+isButtonPressed	KEYWORD2
+waitButtonPressed	KEYWORD2
+waitButtonReleased	KEYWORD2
+waitButtonPressAndReleased	KEYWORD2
+setMotorSpeeds	KEYWORD2
+setMotorLeftSpeed	KEYWORD2
+setMotorRightSpeed	KEYWORD2
+setMotorStop	KEYWORD2
+turretAction	KEYWORD2
+turretReadDistance_mm	KEYWORD2
+turretWriteAngle	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
